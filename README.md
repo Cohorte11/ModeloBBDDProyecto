@@ -16,12 +16,5 @@ Paso 2: Crear el Script de Creación de Tablas en MySQL
 2. Escribir el Script de Creación de Tablas:
     - Utiliza los comandos SQL para crear las tablas con sus respectivas columnas.
 
-Paso 3: Insertar Datos en las Tablas
-1. Escribir el Script de Inserción de Datos:
-    - Utiliza los comandos SQL para insertar datos en las tablas (pueden ser ficticios).
-
-Paso 4: Consultas para Obtener Información
-1. En el Script, crear consultas que permitan obtener datos según criterios imprtantes para la aplicación. Ejemplo: `Comentarios` según `Usuario` o `Productos` según `Categorías.`
-
-Paso 5: Subir el diagrama y el script de la base de datos
+Paso 3: Subir el diagrama y el script de la base de datos
 1. En el repositorio de GitHub Classroom, pushear el diagrama y el script.
